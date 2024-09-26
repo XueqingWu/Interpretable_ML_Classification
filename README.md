@@ -1,6 +1,8 @@
 # Interpretable_ML_Classification
 Explanation for each interpretable machine learning method
 
+Please see the diagram of each method in the `Interpretable ML Diagram.pptx`
+
 ## RuleTrees
 Reference: https://techdocs.akamai.com/property-mgr/reference/rule-trees
 
