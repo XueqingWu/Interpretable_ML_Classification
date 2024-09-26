@@ -19,6 +19,7 @@ Reference: https://csinva.io/imodels/rule_list/greedy_rule_list.html
 A greedy rule list is a machine learning algorithm that splits on one feature at a time along a single path to find rules that maximize the probability of class 1. It is currently only supported for binary classification. 
 
 ## OneR
+Reference: https://www.saedsayad.com/oner.htm 
 For each predictor,
      For each value of that predictor, make a rule as follows;
            Count how often each value of target (class) appears
